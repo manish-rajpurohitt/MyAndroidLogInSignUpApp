@@ -6,5 +6,5 @@ The User Information will be stored in Firebase Account...
 
 Sample Screenshot
 
-![Sample Image] /sample.jpeg
+![Sample Image] (/sample.jpeg)
 
