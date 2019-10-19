@@ -6,5 +6,5 @@ The User Information will be stored in Firebase Account...
 
 Sample Screenshot
 
-![Image description]sample.jpeg
+![Image description] https://github.com/manish-rajpurohitt/MyAndroidLogInSignUpApp/blob/master/sample.jpeg
 
