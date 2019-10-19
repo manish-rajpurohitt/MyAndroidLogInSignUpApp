@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724248242193",
+    "firebase_url": "https://loginsignup-app.firebaseio.com",
+    "project_id": "loginsignup-app",
+    "storage_bucket": "loginsignup-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724248242193:android:98cf37126123f6127ba9b0",
+        "android_client_info": {
+          "package_name": "com.mk9866.myloginsignupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724248242193-evrqaj6vm8olvi8ljmq6qbt4vivd7v43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw2_0wpOK36MFX8OAzOwkXZl10JPt-NE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724248242193-evrqaj6vm8olvi8ljmq6qbt4vivd7v43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
